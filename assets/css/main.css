@@ -2352,6 +2352,7 @@
 		.button:hover {
 			border-color: #49bf9d;
 			color: #49bf9d !important;
+			font-weight: bold;
 		}
 
 		input[type="submit"]:active,
