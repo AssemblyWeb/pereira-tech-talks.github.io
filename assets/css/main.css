@@ -1709,6 +1709,11 @@
 		text-align: right;
 	}
 
+/* colors */
+.is-green{
+  color: #00585F;
+}
+
 /* Section/Article */
 
 	section.special, article.special {
